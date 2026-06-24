@@ -1,0 +1,6 @@
+{
+  "name": "Celulares Store",
+  "description": "Uma landing page premium e interativa para vendas de smartphones topo de linha, com personalizador de modelos e carrinho de compras integrado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
